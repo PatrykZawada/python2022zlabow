@@ -1,5 +1,5 @@
 ### Zapoznaj się z prostymi typami zmiennych
-# print('Hello kognitywistyka') # funkcja (dalej jako fun) print wyświetla wynik na ekranie
+ print('Hello kognitywistyka') # funkcja (dalej jako fun) print wyświetla wynik na ekranie
 #
 ## nazwa zmiennej powinna mieć znaczenie, staraj się nie używać pojedyńczych liter a,b,c, lub liter+numer  x1,x2,x3
 ## kod w j.polskim lub angielskim, mix w/w jest możliwy ale nieprofesjonalny
